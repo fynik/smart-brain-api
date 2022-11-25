@@ -1,0 +1,14 @@
+PUT http://localhost:3001/image
+Content-Type: application/json
+
+{
+  "id": 1
+}
+
+###
+PUT http://localhost:3001/image
+Content-Type: application/json
+
+{
+  "id": 4898897
+}

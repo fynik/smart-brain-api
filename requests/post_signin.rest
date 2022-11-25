@@ -1,0 +1,25 @@
+POST http://localhost:3001/signin
+Content-Type: application/json
+
+{
+  "email": "jonh@somemail.org",
+  "password": "user1"
+}
+
+###
+POST http://localhost:3001/signin
+Content-Type: application/json
+
+{
+  "email": "jonh@somemail.org",
+  "password": "cookie"
+}
+
+###
+POST http://localhost:3001/signin
+Content-Type: application/json
+
+{
+  "email": "someone@somemail.org",
+  "password": "user1"
+}
