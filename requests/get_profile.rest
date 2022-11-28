@@ -1,4 +1,4 @@
-GET http://localhost:3001/profile/2
+GET http://localhost:3001/profile/1
 
 ###
 GET http://localhost:3001/profile/18
